@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="ripple_white_effect">#93ffffff</color>
+
+    <color name="plan_button_normal">#D81B60</color>
+    <color name="plan_button_pressed">#D81B60</color>
+
+    <color name="colorIcons">#FFFFFF</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="colorSecondaryText">#757575</color>
+</resources>

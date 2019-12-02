@@ -1,0 +1,872 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "CuQEWwIAADuY-7mqKj7BN0Nn33FpX3Z58ZV9DxYQlDXL3UL3lmQKZ3D4ZfeoUUJBREPKjFoQxjtFQ-DJlyY2dXEFPM7THk1IpfPvIfzzZ5gJAis8PV-M_yiLY-hN2kB6lu42ppNkN8BYcRYShRHXuNN7HXhXmZEvxpvWh70_7fC_Caq5M4XSLC12P2uTraKVJUj1Qq1BTWr2U4R58crC7LzBZx5_1oz2l9HXRNrBGjkWlQdN7r5XWvnoXP0_EtB167PkwDbzaFapRm3ChhPdTbgfruuu8IOSSQPXmeapN9z6ETR8_99xdhAHy7xMLOZbbgQOSBZlmYBLayq-_snEDDrIab5NrDEjuYWcQsWa_byacUrOiPeB8gJj51pS8wp5CPU4x8KMWkpYxqLN5DE612C8-fXW9a-XLihBI_T_5xSHjTRPS4lfgYFX2ivQ0QMCMYkEd60mIcQS0dZvlRBWqfAcErIK0wDrFR_J0feAuWYnPEUkzy10Q907B8tXL07vvEbEx30JOkgo3w4TLnHJ_nY-beziCMPWNsxQf9FV3zAsBaTZNPNAo_stFjOq4VNBoMXqyHXrCce1OaBjym65Op6pPBUvvaPuUu8ybUn2zAkScaj0sg5fu4Pt31uT-oBZjXRqPkNVeZZuG3mJM4daVAhPT1pUT7UkCqFt9WtWZZp779zt7y6UICR0DsZMpZpJIc6hJFJbjQZLnDqPTPVgHZgnCImHic3s4_BULmiyTSz4ri1LMgBYlsnRL7OA7oXwxvm7eBG5X5ivYSxE6GdzpFpSHWsw96GfTd7L5IVMS1IxmKf01TRaEhAyMBjVmZgwXsEtJj7yUT-oGhSaxXADXxE3qdus12ZJgl0C7M4WDA",
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.62085279999999,
+          "lng" : -79.5154086
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6224047302915,
+            "lng" : -79.51414356970849
+          },
+          "southwest" : {
+            "lat" : 43.6197067697085,
+            "lng" : -79.51684153029152
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "601bb2a16c508a5d8e926fdae9b2bc13cdc4fc27",
+      "name" : "Cineplex Cinemas Queensway & VIP",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103884718844820832047/photos\"\u003eCineplex Cinemas Queensway &amp; VIP\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAOv1McDku8X1mrIGMU3TQewLvqBvgQTfVxWiRiu5JThZqljtvHI4HgXQTcAfUcC_URcF6sGQeBumoXpUrRlJowx9oLHEEPy00n7s5STblfTeiOtcDc8G-XEKawrtz0N8dEhAKYiHbqNtu3MoDhZvIGu6mGhRA6JeJXtkZk5SnvWke-COVgkDdZA",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJj2a3l9I3K4gRnD75toIIzbA",
+      "plus_code" : {
+        "compound_code" : "JFCM+8R Etobicoke, Toronto, ON, Canada",
+        "global_code" : "87M2JFCM+8R"
+      },
+      "rating" : 4.399999999999999,
+      "reference" : "ChIJj2a3l9I3K4gRnD75toIIzbA",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6749,
+      "vicinity" : "1025 The Queensway, Etobicoke"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.6489106,
+          "lng" : -79.3912347
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6503011802915,
+            "lng" : -79.3899211197085
+          },
+          "southwest" : {
+            "lat" : 43.6476032197085,
+            "lng" : -79.39261908029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "298d11f4f1310e83b43a63eab8b44e10ab5ffa73",
+      "name" : "Cineplex Cinemas",
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103341052146950984760/photos\"\u003eJames Chezepock\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAoB5JIMYUwupRsQhUIRXbqg5v0RMykuIhjidV8ULI1BiDgaLMZAfchquNKG4VxwzYKek3yYvsH1XqohstL1GKi4J6RqoiZhGPun5HkrcDC-R6RwNKn-PqBRjlfVHzt1gsEhBMlDKPLm9zkAktQFgFlRi9GhSH4u_-DK-8jTwkHmkgnWSOxRDnrQ",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJ6WXdCtA0K4gR5wmJfTBGe48",
+      "plus_code" : {
+        "compound_code" : "JJX5+HG Toronto, Ontario, Canada",
+        "global_code" : "87M2JJX5+HG"
+      },
+      "rating" : 4.399999999999999,
+      "reference" : "ChIJ6WXdCtA0K4gR5wmJfTBGe48",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6378,
+      "vicinity" : "259 Richmond Street West, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.6655516,
+          "lng" : -79.41046879999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6667768802915,
+            "lng" : -79.40906786970848
+          },
+          "southwest" : {
+            "lat" : 43.6640789197085,
+            "lng" : -79.41176583029149
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "20a57ab3d50d3ae06c9704622d69e290654c2c05",
+      "name" : "Hot Docs Ted Rogers Cinema",
+      "photos" : [
+        {
+          "height" : 1365,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105373644282233165968/photos\"\u003eHot Docs Ted Rogers Cinema\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAATtc4X5EjAorXiMyKwOTSkArEbiuj3PF0_82aRee2Wz39ll166xnX5JfEYVE8fGmgmpOyD0fPmVWGi4t7Nxmcudfz7kQbhEz9GUsBC2xb-xR-nS-Ck-zIsfVyYmJS4qteEhDfnlHJCjh-OjxaV9kO-RqlGhSOsiARAOOp-6H1NzvBbZphb8r5DQ",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJJx6bz5M0K4gRxRx385CYfBY",
+      "plus_code" : {
+        "compound_code" : "MH8Q+6R Toronto, Ontario, Canada",
+        "global_code" : "87M2MH8Q+6R"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJJx6bz5M0K4gRxRx385CYfBY",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1039,
+      "vicinity" : "506 Bloor Street West, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.59235030000001,
+          "lng" : -79.65124089999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.5937168802915,
+            "lng" : -79.64957481970848
+          },
+          "southwest" : {
+            "lat" : 43.59101891970851,
+            "lng" : -79.6522727802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "8bd602f2caed1b9c069bfc2926b2e99434524e9d",
+      "name" : "Cineplex Cinemas Mississauga",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105448360727816528051/photos\"\u003eCineplex Cinemas Mississauga\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAmdcwL_NT8d9qG0vJI7-qTzNSaMXgFG1zFc4wgsNLXetmv_0mnkcZeqOW0louVqkDwyWvdv4OhziM514lG9qZP1M2lytCzEGLFTuMVA71D8YHmCPhggww5jG3c627XcaZEhCA4xR4KE0xwEUs3MRcg4eqGhRvtWOudgyqxjVfAoGN-NMaHv8YNw",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJE6Xr0dRAK4gRXf1daZyZzGw",
+      "plus_code" : {
+        "compound_code" : "H8RX+WG Mississauga, Ontario, Canada",
+        "global_code" : "87M2H8RX+WG"
+      },
+      "rating" : 4.199999999999999,
+      "reference" : "ChIJE6Xr0dRAK4gRXf1daZyZzGw",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3033,
+      "vicinity" : "309 Rathburn Road West, Mississauga"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.73302450000001,
+          "lng" : -79.76811189999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.7342199302915,
+            "lng" : -79.76657221970849
+          },
+          "southwest" : {
+            "lat" : 43.7315219697085,
+            "lng" : -79.7692701802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "d7b02b0e3581a10193b058a62417aba4f22e9321",
+      "name" : "SilverCity Brampton",
+      "photos" : [
+        {
+          "height" : 2400,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115412071559398108332/photos\"\u003eRamneek Handa\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA4Ot_Nk3LT0Q0Iz9ZlIBelIo5GpGpK52G5NdZPGzmY-NAi3vh6ybl5TQQ84G5vaw_OW5DeyTU60O4zlZnpG0ecOTBJQ09OTddenbE75efi_KO-Z_HtGa_n1JPVuaxGpJ4EhAMY62DIK_G4wnKrWMQl2DAGhTiBoCSUf0lAQFpwiODmfw1fW-reA",
+          "width" : 3200
+        }
+      ],
+      "place_id" : "ChIJARouVhUWK4gRBOudXqGD-cY",
+      "plus_code" : {
+        "compound_code" : "P6MJ+6Q Brampton, Ontario, Canada",
+        "global_code" : "87M2P6MJ+6Q"
+      },
+      "rating" : 4.199999999999999,
+      "reference" : "ChIJARouVhUWK4gRBOudXqGD-cY",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3369,
+      "vicinity" : "50 Great Lakes Drive, Brampton"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.66956950000001,
+          "lng" : -79.3886079
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6710641802915,
+            "lng" : -79.38732126970848
+          },
+          "southwest" : {
+            "lat" : 43.6683662197085,
+            "lng" : -79.3900192302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "cd1236b2bc69f94689f3a88469dde5e4e381ebdc",
+      "name" : "Cineplex Cinemas Varsity and VIP",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104000581914541236021/photos\"\u003eCineplex Cinemas Varsity and VIP\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAwi9s0gHYJhoslYC-deopJSCkp4lHaMAhbZxJjNKJF3eiwihazXJ-aENvA8ILjxDhKMx49ynoWooUri2aJ6_EImKUOjk4ISYTjYWyEHFutaLDZqvwasAHjXnX4Md2hx0WEhA91AXmjfq0CCOWkd5jmD2lGhTTYuNJfsNzTAo0vgqFHz-PMQ3vRQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJLTU_M640K4gRaQZR7vR4QUI",
+      "plus_code" : {
+        "compound_code" : "MJ96+RH Toronto, Ontario, Canada",
+        "global_code" : "87M2MJ96+RH"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJLTU_M640K4gRaQZR7vR4QUI",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1247,
+      "vicinity" : "Manulife Centre, 55 Bloor Street West, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.651043,
+          "lng" : -79.45124469999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6524265802915,
+            "lng" : -79.44972731970847
+          },
+          "southwest" : {
+            "lat" : 43.6497286197085,
+            "lng" : -79.45242528029148
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "6c3817df6024af5348d25d5727b474f5df21a317",
+      "name" : "Revue Cinema",
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103693812460104351999/photos\"\u003eAlex Laney\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAugbulEbIm4eak8WoGuUvYdXnGIk33uQLXaGrZcgPbGnuldaflNWLDWxpMvrNDh_ytobYqzbZbr2oV5KuVUBUp-tHhsZM7EEWnjhktlR69Pf_DPRbCYolbCx_sphWXH3LEhAfZZXMF9BdG6w_vN1Jf15JGhTZdUr4LgQoHrKgcd3ukJ1-5lBQBA",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJ_5FcgTY0K4gRCBLnsTyY_w4",
+      "plus_code" : {
+        "compound_code" : "MG2X+CG Toronto, Ontario, Canada",
+        "global_code" : "87M2MG2X+CG"
+      },
+      "rating" : 4.699999999999999,
+      "reference" : "ChIJ_5FcgTY0K4gRCBLnsTyY_w4",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 562,
+      "vicinity" : "400 Roncesvalles Avenue, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.649203,
+          "lng" : -79.37273499999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.65045388029149,
+            "lng" : -79.37131056970848
+          },
+          "southwest" : {
+            "lat" : 43.64775591970849,
+            "lng" : -79.3740085302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "30296dcd203645e8f1b860a63c876045546a215f",
+      "name" : "Imagine Cinemas Market Square",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111622999421015713891/photos\"\u003ehamudi eid\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAJh93HpjgjVE6wP0xYhw28MqkcdppYw6L7Uy0RUr_FilULOuRjHk1q6b4sH1tRiukpgKLXeYM86vAcd2NvSAmWY3csRHXFnXYJLCjszjqo2oO29EqILZntVepQaJQH931EhAch8zD99zUXmo4yzjSnf9bGhSa5f6gje5V2ubjQSQzwISTppgPpQ",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJjatbyTHL1IkRiw9trQE10AA",
+      "plus_code" : {
+        "compound_code" : "JJXG+MW Toronto, Ontario, Canada",
+        "global_code" : "87M2JJXG+MW"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJjatbyTHL1IkRiw9trQE10AA",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1093,
+      "vicinity" : "80 Front Street East, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.77860929999999,
+          "lng" : -79.344019
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.7800753302915,
+            "lng" : -79.34286866970849
+          },
+          "southwest" : {
+            "lat" : 43.7773773697085,
+            "lng" : -79.3455666302915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "8ee422916423476aa936228ed13bcb2588aafcb8",
+      "name" : "Cineplex Cinemas Fairview Mall",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102010646545426013386/photos\"\u003eCineplex Cinemas\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAxPEObf5syQkbhd71Vou13SHZa7wamZ6jZQLbnJQaE9Q3PSHdO6LVl8xmiyPsOaP4LpdeUN0VsYFUd9SRBsUBrDlsIJLNqrDkGlPk-7jP05AKN222o_gZn8FLuwBiaedhEhAsPpnEfNeuc-I064kGyj1NGhTD5IfK_xLWIe4SIvOhLXLN7fvrbQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJz4X0b_DS1IkRcjfjIMG3AnY",
+      "plus_code" : {
+        "compound_code" : "QMH4+C9 North York, Toronto, ON, Canada",
+        "global_code" : "87M2QMH4+C9"
+      },
+      "rating" : 4.199999999999999,
+      "reference" : "ChIJz4X0b_DS1IkRcjfjIMG3AnY",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1339,
+      "vicinity" : "1800 Sheppard Avenue East Unit Y007, North York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.8408015,
+          "lng" : -79.4269997
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.84196643029149,
+            "lng" : -79.42565061970848
+          },
+          "southwest" : {
+            "lat" : 43.83926846970849,
+            "lng" : -79.4283485802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "8e6ca6583a8dd9229afc3596a619ab30a2350418",
+      "name" : "SilverCity Richmond Hill",
+      "photos" : [
+        {
+          "height" : 1440,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110797422537615783680/photos\"\u003eRula B. Morcos\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA_kGzrWlGUGMdxZ49Xu6HIRtfeqMqTNovAiK6WOCp2109sU9a5tJYHIEtR2nBMbS0bPtqvJDix8OD4Ad_Re4hGXksO5xp8qGuDuVXTSdbtvb1jrZSL9lfCwjTtgH4qJtHEhAGsyGNbB6OveMg8jOPfDP5GhR5TVnuuNAdQ3MDzfC9F85vY-9jiA",
+          "width" : 2560
+        }
+      ],
+      "place_id" : "ChIJNz69l4MrK4gRN1ZY3NOKrH8",
+      "plus_code" : {
+        "compound_code" : "RHRF+86 Richmond Hill, Ontario, Canada",
+        "global_code" : "87M2RHRF+86"
+      },
+      "rating" : 4.199999999999999,
+      "reference" : "ChIJNz69l4MrK4gRN1ZY3NOKrH8",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3286,
+      "vicinity" : "8725 Yonge Street, Richmond Hill"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.70735129999999,
+          "lng" : -79.398742
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.70875068029149,
+            "lng" : -79.39727331970849
+          },
+          "southwest" : {
+            "lat" : 43.7060527197085,
+            "lng" : -79.39997128029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "d4e0b3d437bd94f41a768bfedbcc9e45142357c8",
+      "name" : "Cineplex Cinemas Yonge-Eglinton and VIP",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107542295306806831844/photos\"\u003eCineplex Cinemas Yonge-Eglinton and VIP\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAlXKdXOjpEOTpH4KK8OCGb2xuzTQXEUYxZa_wWL4VS-fAzu-R5mkFsyjv8BFF5O8hJphlHyStGF2gOH0JWO8rmNFPPVAVSjSFlzTkdyN3BPCCIIZSqFAMtILwjwxD7MnUEhCmXqUZIyI3XrDCA9wvW_d7GhRDZnhfzqGy38ff1UgtPuB4kkTRhQ",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJG9EZzzwzK4gRru9SyjKdxiw",
+      "plus_code" : {
+        "compound_code" : "PJ42+WG Toronto, Ontario, Canada",
+        "global_code" : "87M2PJ42+WG"
+      },
+      "rating" : 4.399999999999999,
+      "reference" : "ChIJG9EZzzwzK4gRru9SyjKdxiw",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1663,
+      "vicinity" : "2300 Yonge Street Unit PL7, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.8067096,
+          "lng" : -79.45247590000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.80984245,
+            "lng" : -79.45079689999999
+          },
+          "southwest" : {
+            "lat" : 43.80401985,
+            "lng" : -79.45402130000001
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "7c14758b15db0d603e5494d99d8473449a9ce98f",
+      "name" : "Promenade",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116271146354746581374/photos\"\u003eSBM Tetrault-Escobar\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAQI4PSaMPkgsGLKvs4_raijNhfzU9NiLCU0wW3fwXj28oOdRogbQoXbSwTVsuCtwQBBBAmI-4ydzNe32tPKa01BChHq9zQO_Wo-fzNorcuae1aBne6pWxWuY_IjLeJsvdEhBNDageShbiLXfkx2ed19pSGhRgoyOLbFRFwxqN6P-m7hCm71Bl6A",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJMQzQQjcsK4gR0VWMANUknGo",
+      "plus_code" : {
+        "compound_code" : "RG4X+M2 Thornhill, Vaughan, ON, Canada",
+        "global_code" : "87M2RG4X+M2"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJMQzQQjcsK4gR0VWMANUknGo",
+      "scope" : "GOOGLE",
+      "types" : [
+        "shopping_mall",
+        "movie_theater",
+        "shoe_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 5360,
+      "vicinity" : "1 Promenade Circle, Thornhill"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.6748488,
+          "lng" : -79.41282269999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6761505802915,
+            "lng" : -79.4114549697085
+          },
+          "southwest" : {
+            "lat" : 43.6734526197085,
+            "lng" : -79.41415293029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "eecd4d92f299b8629e8cac4dd28fdaa10aa69731",
+      "name" : "Tarragon Theatre",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101752320499567895627/photos\"\u003eFilippo Salustri\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAjYYMjIx22dmD7F1UWCsbzZ6PlzmR-Z7tJKSQrfnP4KPi0nmycf4FuPOctb5vnIvfcC7FU7ORU-iVH-OZKIxAyKn8UTJaStZE04t4HHOAvUFxtOg2MX5iay-gtskcwU0XEhBMT8KnKGY6DA2xe4-FvAINGhQuc2MQA5o_VCocs5n065B-QcSABQ",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJVyMbQps0K4gR0yuNOUzJmkw",
+      "plus_code" : {
+        "compound_code" : "MHFP+WV Toronto, Ontario, Canada",
+        "global_code" : "87M2MHFP+WV"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJVyMbQps0K4gR0yuNOUzJmkw",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 428,
+      "vicinity" : "30 Bridgman Avenue, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.39360309999999,
+          "lng" : -79.7513914
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.39506318029149,
+            "lng" : -79.75023131970849
+          },
+          "southwest" : {
+            "lat" : 43.39236521970849,
+            "lng" : -79.7529292802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "b365726d028649275817ef5e9d83a95b51daa252",
+      "name" : "Cineplex Cinemas Oakville and VIP",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109130099776248648187/photos\"\u003eCineplex Cinemas Oakville and VIP\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAK85zc8LxJ0H0kW2EpQFTtTQrcTE5V8xzIxtO4biff3LwnOYms0EGBJVY7dngJPjO_lX1EHFe9yZwMc5cXTkMEftmZQDNM8NfBaCEIFDfNyJjDFC3Io70rD0ltw7y6vOeEhBs5dYDKIS8QABtFUPkzjQtGhRZtBvrbyXXvggeY5ZZfSuJ7lM-hA",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJQ2AksaRgK4gRS1R0w2zwt0M",
+      "plus_code" : {
+        "compound_code" : "96VX+CC Oakville, Ontario, Canada",
+        "global_code" : "87M296VX+CC"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJQ2AksaRgK4gRS1R0w2zwt0M",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2151,
+      "vicinity" : "3531 Wyecroft Road, Oakville"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.5385597,
+          "lng" : -79.869913
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.5397374802915,
+            "lng" : -79.86869701970848
+          },
+          "southwest" : {
+            "lat" : 43.53703951970851,
+            "lng" : -79.87139498029148
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "f090d369779f17762c8ac6d9a8af4d19dbc2cd81",
+      "name" : "Cineplex Cinemas Milton",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105497562718345975562/photos\"\u003eCineplex Cinemas Milton\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRZAAAA_Te8Mh0CZ85Q9DIx3JKc7gD88gNvfV0MRKLsTwMntISVIzk9kXEX6i9ZmBLflfYVV8-uqtgLROzTdRux-yl9Zyp4V62jv_sAb-AQb6fGpH86DdrtwADH1_tLU1MgCpcNEhCvpNWz_PpEramChj1L8FiUGhQDvsuCc1d7X5vgk5_SmmjC4tzMBA",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJ0Tl_RvluK4gRT9sYtZGW5wI",
+      "plus_code" : {
+        "compound_code" : "G4QJ+C2 Milton, Ontario, Canada",
+        "global_code" : "87M2G4QJ+C2"
+      },
+      "rating" : 4.199999999999999,
+      "reference" : "ChIJ0Tl_RvluK4gRT9sYtZGW5wI",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1438,
+      "vicinity" : "1175 Maple Avenue, Milton"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.77554219999999,
+          "lng" : -79.2556647
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.77720763029149,
+            "lng" : -79.25423821970848
+          },
+          "southwest" : {
+            "lat" : 43.77450966970849,
+            "lng" : -79.2569361802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "ed0ef0830ce74185801fb129f32470009d4d6b55",
+      "name" : "Cineplex Cinemas Scarborough",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104558807582954482215/photos\"\u003eCineplex Cinemas Scarborough\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAoL8FzcWe6iELTs7MFVtjlF6ZC5zZ1_jvMZcbh6Gfl3bU4KS8c1zMdFxtQ2jrvQ0hoJ3hnhzYvRdGwsvg33Mbu98uYrAo3EKttNyJ5cPrGDta0U9eZdAy3k0-oDZM70dDEhC8zM9cXBRCki9gAdsG5OhvGhQYSFPO0YxP7nxd2gDpPFpR65bHFg",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJVSmQO6XR1IkR6X2utW7F9bA",
+      "plus_code" : {
+        "compound_code" : "QPGV+6P Scarborough, Toronto, ON, Canada",
+        "global_code" : "87M2QPGV+6P"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJVSmQO6XR1IkR6X2utW7F9bA",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3024,
+      "vicinity" : "300 Borough Drive, Scarborough"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.7270347,
+          "lng" : -79.450627
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.7282295302915,
+            "lng" : -79.44979301970849
+          },
+          "southwest" : {
+            "lat" : 43.7255315697085,
+            "lng" : -79.4524909802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "83b4e6c98f69e0cd067d3d334ae541d9747f1f95",
+      "name" : "Cineplex Cinemas Yorkdale",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101772700761665523372/photos\"\u003eLester Attai\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAyM4B9NRTIUrE2F6kPraP3bbASAoT61AaefDxvpGOy07xP8RUgASAaHKl1TLcxO4lodyjsM6rK5MwEl4nZJYRqK9-yUWmsldk_pWg_2o2gvYh7n6ivqhWKrvCYjeKGtuyEhDkD9hWJQycmfJIexjlG1mqGhTXXWzV0oRBFeELSdCGRejP52kpOw",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJFTDYCDMyK4gRDdblaGrJiqA",
+      "plus_code" : {
+        "compound_code" : "PGGX+RP North York, Toronto, ON, Canada",
+        "global_code" : "87M2PGGX+RP"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJFTDYCDMyK4gRDdblaGrJiqA",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1931,
+      "vicinity" : "3401 Dufferin Street, North York"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.65520770000001,
+          "lng" : -79.4144814
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.6565016802915,
+            "lng" : -79.41311116970849
+          },
+          "southwest" : {
+            "lat" : 43.6538037197085,
+            "lng" : -79.41580913029151
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "a46ae0d4172b260b66f806ef84ae29a176b30263",
+      "name" : "The Royal",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116070910053138541165/photos\"\u003eJordan Cherkewich\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAADqt8PeetKq74u_QfM4S9AoK9md6GlV5-XgqwrZV2J2wxXL0I_GFR-vh-UJtLxLByUSstZ0IhNPMiJuUMaDD8KJRDy43ibAQCfc6TjdyVZyU5kkmI6AIT3srAiyccEWfyEhBoeI14UXXYnMKTjORjxvupGhRMakXmkHP0x4P8ox33a5m1R7YXCg",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJt6xW1_E0K4gRy1QoqXwJhHE",
+      "plus_code" : {
+        "compound_code" : "MH4P+36 Toronto, Ontario, Canada",
+        "global_code" : "87M2MH4P+36"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJt6xW1_E0K4gRy1QoqXwJhHE",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 645,
+      "vicinity" : "608 College Street, Toronto"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.79751939999999,
+          "lng" : -79.20359780000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.7986656302915,
+            "lng" : -79.20235091970849
+          },
+          "southwest" : {
+            "lat" : 43.7959676697085,
+            "lng" : -79.2050488802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "69e24a31b9f76dca000123b5a3d9ca842ef32191",
+      "name" : "Cineplex",
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111982545608102010193/photos\"\u003eCineplex Odeon Morningside Cinemas\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAAi_klIk1cLmFHK2r6qSCYfRRqc83yOAW0tuCIWNG6wmTMK5ziY_NTJyvmfPYXk_drUvNcq-1fKq3g9VUEDGYcnoFOQCX46xcWyI_IXRMbTUfxK_T_un_zYzvmgORV2cEwEhDV4zG9zQIWhnjHg_cp6yByGhQShYNcfEsp3vFzlZC1hS6UC8ARzg",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJAwfbF6fQ1IkRpdiQZ9Rzp7A",
+      "plus_code" : {
+        "compound_code" : "QQXW+2H Scarborough, Toronto, ON, Canada",
+        "global_code" : "87M2QQXW+2H"
+      },
+      "rating" : 4,
+      "reference" : "ChIJAwfbF6fQ1IkRpdiQZ9Rzp7A",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1004,
+      "vicinity" : "785 Milner Avenue, Scarborough"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 43.80688120000001,
+          "lng" : -79.4522614
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 43.8081220302915,
+            "lng" : -79.4513996197085
+          },
+          "southwest" : {
+            "lat" : 43.80542406970851,
+            "lng" : -79.4540975802915
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+      "id" : "9758af40a3365c276443cb8893192968173fd1e0",
+      "name" : "Imagine Cinemas Promenade",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1153,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111462640869715400382/photos\"\u003eImagine Cinemas Promenade\u003c/a\u003e"
+          ],
+          "photo_reference" : "CmRaAAAA3kyc08XYoAH7LlVYuUJcC-BWpM53ZoG_G9IxM8ZwATjNf87ctqOmiRpL2cY-aPa67w1Z6mYiXsqAefi_WR11vO1-tRrxgk5I2dckrBLNj9-TzOM3SSFXy-xkcDJjIVLiEhA50vWij64gvlWUSHTg41B8GhSsl6Rr0lY3aCeeWtul7y5Vfubmsg",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJr1WSozksK4gRYuav2JiGAk4",
+      "plus_code" : {
+        "compound_code" : "RG4X+Q3 Thornhill, Vaughan, ON, Canada",
+        "global_code" : "87M2RG4X+Q3"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJr1WSozksK4gRYuav2JiGAk4",
+      "scope" : "GOOGLE",
+      "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 774,
+      "vicinity" : "1 Promenade Circle, Thornhill"
+    }
+  ],
+  "status" : "OK"
+}

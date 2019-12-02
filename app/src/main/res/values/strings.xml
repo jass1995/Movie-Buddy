@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_paymemt">Payment</string>
+    <string name="menu_ticket">Movie Book Ticket</string>
+    <string name="menu_map">Near by Movie Theatre</string>
+    <string name="menu_review">Movie Review</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="locate_me">Locate Me</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+
+    <string name="spinner_title">Select Show Time</string>
+    <string name="show_timing">Select Show Timing:</string>
+    <string name="qty">QTY:</string>
+
+    <string name="first_name">First Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="dob">DOB</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="save">SAVE</string>
+    <string name="name_on_card">Name on Card</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="cvv">CVV</string>
+
+    <string name="payment">Payment</string>
+    <string name="mission_impossible">Mission Impossible</string>
+    <string name="irom_man_3">Irom Man 3</string>
+    <string name="superman">SuperMan</string>
+    <string name="batman_begins">Batman begins</string>
+    <string name="sports_info_placeholder">Here is some Theatre</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="empty_screen">We do not have anything\nhere right now. Please Retry</string>
+    <string name="btn_retry">Retry</string>
+
+
+    <string-array name="theatre_info">
+        <item>1800 Sheppard Ave E Unit Y007, North York, ON, M2J5A7</item>
+        <item>12 Marie Labatte Rd Unit B7, Toronto, ON M3C0H9</item>
+        <item>300 Borough Dr, Scarborough, ON M1P4P5</item>
+        <item>2300 Yonge St Unit PL7, Toronto, ON M4P1E4</item>
+        <item>2190 Yonge St, Toronto, ON M4S2C6</item>
+
+    </string-array>
+
+
+    <string-array name="theatre_list">
+        <item>Cineplex Cinemas Fairview Mall</item>
+        <item>Cineplex VIP Cinemas Don Mills</item>
+        <item>Cineplex Coliseum Scarborough</item>
+        <item>Cineplex Cinemas Yonge-Eglinton and vip</item>
+        <item>Famous Players Canada Square Cinemas</item>
+
+    </string-array>
+
+    <string-array name="theatre_images">
+        <item>https://s3-media4.fl.yelpcdn.com/bphoto/1ZO6Ynp-IOtFHv0mXLEotg/o.jpg</item>
+        <item>https://thepinkmillennial.ca/wp-content/uploads/2014/08/Cineplex-VIP-Cinemas-Don-Mills-1-900x900.png</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-w/09/ea/cc/4d/photo0jpg.jpg</item>
+        <item>https://mediafiles.cineplex.com/TheatreHeaders/7400_01_SC_YongeEglinton.jpg</item>
+        <item>https://fastly.4sqi.net/img/general/200x200/kiS_KYjobR17_fRidR1vSbL99zZ4h4yPbLKdV1jCQ8Y.jpg</item>
+
+    </string-array>
+
+</resources>
